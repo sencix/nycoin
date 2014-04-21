@@ -34,14 +34,24 @@ Special reward system: Random block rewards
 ### Conf Settings
 
 rpcuser=newyorkc
+
 rpcpassword=nycoinpass
+
 rpcport=18823
 
 addnode=84.104.143.203
+
 addnode=198.200.75.246
+
 addnode=90.188.15.233
+
 addnode=88.163.58.182
+
 addnode=37.26.132.126
+
 addnode=91.67.71.142
+
 addnode=98.126.255.243
+
 addnode=176.9.19.119
+

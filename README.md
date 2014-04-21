@@ -1,4 +1,4 @@
-# newyorkc [NYC]
+# New York Coin [NYC]
 
 ## FAQ
 
@@ -6,7 +6,7 @@
 100 billion coins, just like DOGE.
 
 ### Coin type?
-newyorkc is a Scrypt-based Proof of Work coin using the Kimoto Gravity Well algorithm.
+New York Coin is a Scrypt-based Proof of Work coin using the Kimoto Gravity Well algorithm.
 
 ### Block Info
 
